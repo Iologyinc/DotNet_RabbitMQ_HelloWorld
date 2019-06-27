@@ -1,6 +1,6 @@
 # DotNet RabbitMQ Hello World!
 
-This project is a basic script displaying the cord functionality of integrating RabbitMQ with a DotNet application.
+This project is a basic script displaying the core functionality of integrating RabbitMQ with a DotNet application.
 
 ## Installation
 
