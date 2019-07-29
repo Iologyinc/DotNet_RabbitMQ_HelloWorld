@@ -4282,11 +4282,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sites\\Projects\\RabbitMQ\\Receive\\Receive.csproj",
+      "projectUniqueName": "C:\\Sites\\Sketches\\RabbitMQ\\Receive\\Receive.csproj",
       "projectName": "Receive",
-      "projectPath": "C:\\Sites\\Projects\\RabbitMQ\\Receive\\Receive.csproj",
+      "projectPath": "C:\\Sites\\Sketches\\RabbitMQ\\Receive\\Receive.csproj",
       "packagesPath": "C:\\Users\\ssumler\\.nuget\\packages\\",
-      "outputPath": "C:\\Sites\\Projects\\RabbitMQ\\Receive\\obj\\",
+      "outputPath": "C:\\Sites\\Sketches\\RabbitMQ\\Receive\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

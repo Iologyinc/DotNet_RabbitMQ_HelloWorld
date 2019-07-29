@@ -9,3 +9,14 @@ C:\Sites\Projects\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.
 C:\Sites\Projects\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
 C:\Sites\Projects\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.dll
 C:\Sites\Projects\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.pdb
+C:\Sites\Sketches\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.deps.json
+C:\Sites\Sketches\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.json
+C:\Sites\Sketches\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.runtimeconfig.dev.json
+C:\Sites\Sketches\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.dll
+C:\Sites\Sketches\RabbitMQ\Send\bin\Debug\netcoreapp2.1\Send.pdb
+C:\Sites\Sketches\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.csprojAssemblyReference.cache
+C:\Sites\Sketches\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.csproj.CoreCompileInputs.cache
+C:\Sites\Sketches\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfoInputs.cache
+C:\Sites\Sketches\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.AssemblyInfo.cs
+C:\Sites\Sketches\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.dll
+C:\Sites\Sketches\RabbitMQ\Send\obj\Debug\netcoreapp2.1\Send.pdb

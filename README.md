@@ -1,6 +1,8 @@
 # DotNet RabbitMQ Hello World!
 
-This project is a basic script displaying the core functionality of integrating RabbitMQ with a DotNet application.
+This project is a basic script displaying the core functionality of integrating RabbitMQ with a DotNet application. RabbitMQ is a message broker and queuing software used by enterprise organizations and startups for message centers, among it's many other purposes.
+
+![RabbitMQ](workflow.png)
 
 ## Installation
 
